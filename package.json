@@ -1,0 +1,22 @@
+{
+  "name": "graphql-fun",
+  "version": "1.0.0",
+  "description": "graphql intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonalexander/graphql-fun.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "jon alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonalexander/graphql-fun/issues"
+  },
+  "homepage": "https://github.com/jonalexander/graphql-fun#readme"
+}
